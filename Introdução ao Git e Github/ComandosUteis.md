@@ -5,7 +5,7 @@
 	del: deletar o conteúdo de uma pasta.
 	rmdir: deletar uma pasta/diretório.
 	cls: limpa a tela.
-####Comandos Git:
+#### Comandos Git:
 	git init: inicia o git na pasta atual.
 	git add: envia as alterações na pasta para a área de transferência do repositório para serem commitadas.
 	git config --global user.email: configura o email atrelado ao repositório local.
